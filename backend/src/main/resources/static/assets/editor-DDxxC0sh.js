@@ -1,0 +1,1 @@
+import{c as r,j as t,r as o}from"./bootstrap.bundle.min-Xqs1z5Z3.js";import{C as e}from"./CodeEditor-gXc5Ms6v.js";r.createRoot(document.getElementById("root")).render(t.jsx(o.StrictMode,{children:t.jsx(e,{})}));
