@@ -62,6 +62,8 @@ java -jar target/*.jar
 
 Make sure the `application.properties` includes the correct database and RabbitMQ configurations.
 
+> You can access the website at [http://localhost:8081](http://localhost:8081)  
+
 ---
 
 ## 💻 Frontend Setup (React)
